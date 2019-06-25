@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Two48
 
 2048 game written in Elixir for practice.
@@ -15,3 +16,4 @@ Screenshot:
 mix escript.build   # Build binary
 ./two48             # Run binary
 ```
+=======
